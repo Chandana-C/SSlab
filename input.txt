@@ -1,0 +1,4 @@
+System software is of three main types :
+Operating system.
+Language processor.
+Utility software.
